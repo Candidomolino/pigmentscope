@@ -13,7 +13,7 @@ Luo, Smith, Raston & Zhang (2016). Vortex Fluidic Device-Intensified Aqueous Two
 https://doi.org/10.1021/acssuschemeng.6b00756
 Primary page: https://doi.org/10.1021/acssuschemeng.6b00756
 Status: Inspected supplement
-Images: Supporting Figure S5 contains experimental photographs, inspected and included. Embedded image is only 77 × 253 pixels and includes equipment.
+Images: Supporting Figure S5 contains experimental photographs, inspected and included. Embedded image is only 82 × 260 pixels and includes equipment.
 Videos: Public supporting repository lists a PDF only; no video file was verified.
 Use: Directly relevant continuous-flow/ATPS application. The small photographs are qualitative; equipment colors and compression confound pigment measurement.
 Reuse: Supporting PDF: CC BY-NC 4.0. Included photograph extracted without color adjustment.

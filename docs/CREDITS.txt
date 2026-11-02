@@ -17,7 +17,7 @@ DOI: https://doi.org/10.1021/acssuschemeng.6b00756
 Supporting PDF: https://acs.figshare.com/articles/journal_contribution/3410032
 Original supporting PDF download: https://ndownloader.figshare.com/files/5325934
 Specific supporting-file license: CC BY-NC 4.0 — https://creativecommons.org/licenses/by-nc/4.0/
-Included S5 embedded photograph is only 77 x 253 pixels; extracted without color adjustment. Colored equipment is present. Qualitative example only.
+Included S5 embedded photograph is only 82 x 260 pixels; extracted without color adjustment. Colored equipment is present. Qualitative example only.
 No supporting movie was verified.
 
 Other primary papers are linked in dist/papers.js and the Paper library. Their media have not been redistributed.

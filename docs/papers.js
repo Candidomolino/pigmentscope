@@ -27,7 +27,7 @@ window.PIGMENT_PAPERS = [
     "doi": "10.1021/acssuschemeng.6b00756",
     "url": "https://doi.org/10.1021/acssuschemeng.6b00756",
     "status": "Inspected supplement",
-    "images": "Supporting Figure S5 contains experimental photographs, inspected and included. Embedded image is only 77 × 253 pixels and includes equipment.",
+    "images": "Supporting Figure S5 contains experimental photographs, inspected and included. Embedded image is only 82 × 260 pixels and includes equipment.",
     "videos": "Public supporting repository lists a PDF only; no video file was verified.",
     "use": "Directly relevant continuous-flow/ATPS application. The small photographs are qualitative; equipment colors and compression confound pigment measurement.",
     "mediaUrl": null,
