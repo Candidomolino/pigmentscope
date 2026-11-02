@@ -9,7 +9,7 @@ Original supporting PDF download: https://ndownloader.figshare.com/files/2546472
 Original AVI download: https://ndownloader.figshare.com/files/25464732
 Specific supporting-file license: CC BY-NC 4.0 — https://creativecommons.org/licenses/by-nc/4.0/
 Included S4 photograph was extracted from the PDF and converted from JP2 to PNG, without color adjustment.
-Original AVI is grayscale. The browser WebM is encoded directly from the original AVI using VP9 lossless mode. All 256 decoded source frames are preserved; the playback timeline starts at zero.
+Original AVI is grayscale. The browser WebM is encoded directly from the original AVI using VP9 lossless mode. All 256 decoded source frames are preserved. Browser playback time does not establish acquisition timing.
 The movie supports flow/intensity analysis, not native pigment hue. No endorsement by the original authors is implied.
 
 Luo, Smith, Raston & Zhang (2016). Vortex Fluidic Device-Intensified Aqueous Two Phase Extraction of C-Phycocyanin from Spirulina maxima.
