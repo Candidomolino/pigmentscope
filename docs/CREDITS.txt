@@ -1,0 +1,24 @@
+SOURCE MEDIA AND ATTRIBUTION
+
+Seručnik et al. (2020). Development of a Microfluidic Platform for R-Phycoerythrin Purification Using an Aqueous Micellar Two-Phase System.
+DOI: https://doi.org/10.1021/acssuschemeng.0c05042
+Primary open article: https://pmc.ncbi.nlm.nih.gov/articles/PMC7737240/
+Supporting PDF repository: https://acs.figshare.com/articles/journal_contribution/13222221
+Movie repository: https://acs.figshare.com/articles/media/13222224
+Original supporting PDF download: https://ndownloader.figshare.com/files/25464729
+Original AVI download: https://ndownloader.figshare.com/files/25464732
+Specific supporting-file license: CC BY-NC 4.0 — https://creativecommons.org/licenses/by-nc/4.0/
+Included S4 photograph was extracted from the PDF and converted from JP2 to PNG, without color adjustment.
+Original AVI is grayscale. The browser WebM is encoded directly from the original AVI using VP9 lossless mode. All 256 decoded source frames are preserved; the playback timeline starts at zero.
+The movie supports flow/intensity analysis, not native pigment hue. No endorsement by the original authors is implied.
+
+Luo, Smith, Raston & Zhang (2016). Vortex Fluidic Device-Intensified Aqueous Two Phase Extraction of C-Phycocyanin from Spirulina maxima.
+DOI: https://doi.org/10.1021/acssuschemeng.6b00756
+Supporting PDF: https://acs.figshare.com/articles/journal_contribution/3410032
+Original supporting PDF download: https://ndownloader.figshare.com/files/5325934
+Specific supporting-file license: CC BY-NC 4.0 — https://creativecommons.org/licenses/by-nc/4.0/
+Included S5 embedded photograph is only 77 x 253 pixels; extracted without color adjustment. Colored equipment is present. Qualitative example only.
+No supporting movie was verified.
+
+Other primary papers are linked in dist/papers.js and the Paper library. Their media have not been redistributed.
+Retain source attribution, the noncommercial restriction and license links when reusing included supporting media.

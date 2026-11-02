@@ -1,0 +1,65 @@
+PRIMARY PAPERS FOR PIGMENT COLOR ANALYSIS — checked 2 November 2026
+
+Seručnik, Vicente, Brečko, Coutinho, Ventura & Žnidaršič-Plazl (2020). Development of a Microfluidic Platform for R-Phycoerythrin Purification Using an Aqueous Micellar Two-Phase System
+https://doi.org/10.1021/acssuschemeng.0c05042
+Primary page: https://pmc.ncbi.nlm.nih.gov/articles/PMC7737240/
+Status: Inspected files
+Images: Color photograph verified in Supporting Figure S4: pink coloration of the ultrafiltration membrane. Figure 4 in the article shows the microsettler at different flows.
+Videos: AVI inspected: 480 × 368, 15 frames/s, 17.07 s. It is grayscale. Useful for flow/interfaces, unsuitable for native pigment hue.
+Use: Best first color-image example. Membrane color is not a direct concentration or recovery measurement.
+Reuse: Supporting files: CC BY-NC 4.0; retain attribution. Local photo is extracted and converted from JP2 to PNG; MP4 is a remux; the browser uses a VP9 lossless-encoded WebM derivative.
+
+Luo, Smith, Raston & Zhang (2016). Vortex Fluidic Device-Intensified Aqueous Two Phase Extraction of C-Phycocyanin from Spirulina maxima
+https://doi.org/10.1021/acssuschemeng.6b00756
+Primary page: https://doi.org/10.1021/acssuschemeng.6b00756
+Status: Inspected supplement
+Images: Supporting Figure S5 contains experimental photographs, inspected and included. Embedded image is only 77 × 253 pixels and includes equipment.
+Videos: Public supporting repository lists a PDF only; no video file was verified.
+Use: Directly relevant continuous-flow/ATPS application. The small photographs are qualitative; equipment colors and compression confound pigment measurement.
+Reuse: Supporting PDF: CC BY-NC 4.0. Included photograph extracted without color adjustment.
+
+Boravelli & Vir (2024). Continuous flow aqueous two-phase extraction of betalains in millifluidic channel
+https://doi.org/10.1016/j.cej.2024.153265
+Primary page: https://www.sciencedirect.com/science/article/pii/S1385894724047533
+Status: Media access needed
+Images: The primary abstract verifies beetroot extraction in a PEG/ammonium-sulfate millichannel. Full-resolution process photographs have not been inspected.
+Videos: No supplementary video was verified. Do not assume there is one.
+Use: Strong subject match for a future dataset. Obtain the full paper and supporting files through authorized access before treating its figures as analysis inputs.
+Reuse: Access/reuse terms must be checked before redistributing media.
+
+Tangkatitham, Thongcumsuk, Sripumkhai, Kamnerdsook, Jeamsaksiri, Cheunkar & Oaew (2024). Hydrophilic phycocyanin encapsulation in PLGA nanoparticles using benchtop microfluidic device
+https://doi.org/10.1016/j.colsurfa.2024.134894
+Primary page: https://www.sciencedirect.com/science/article/pii/S0927775724017588
+Status: Media access needed
+Images: Primary abstract verifies microfluidic phycocyanin encapsulation. Availability of usable true-color photographs is not yet established.
+Videos: No supplementary video was verified.
+Use: Relevant encapsulation counterpart to extraction studies. Particle micrographs or illustrative colors must not be interpreted as pigment RGB.
+Reuse: Check publisher and figure-specific reuse terms.
+
+Stücheli, Sieber, Fuchs, Scheller, Strittmatter, Saxena, Gademann & Fussenegger (2020). Genetically encoded betaxanthin-based small-molecular fluorescent reporter for mammalian cells
+https://doi.org/10.1093/nar/gkaa342
+Primary page: https://pmc.ncbi.nlm.nih.gov/articles/PMC7337513/
+Status: Method verified
+Images: Figure 4 and Supporting Figure S15 describe a smartphone setup and RGB analysis of yellow betaxanthin in a cuvette, including a blue-channel calibration curve.
+Videos: No analysis-ready visible-color movie was verified.
+Use: Best pigment-specific justification for calibration. This is a cuvette/reporter assay, not microfluidic extraction; its calibration cannot be transferred to unrelated published photographs.
+Reuse: Primary article/repository record identifies CC BY 4.0; verify specific supplemental materials before reuse.
+
+Yang, Liu, Zhang, Yuan, Tian & Yang (2023). Preparation of acid-driven magnetically imprinted micromotors and selective loading of phycocyanin
+https://doi.org/10.1039/D3TB02021E
+Primary page: https://pubs.rsc.org/en/content/articlelanding/2023/tb/d3tb02021e
+Status: Movies listed, uninspected
+Images: The primary article includes micromotor images and loading studies.
+Videos: Publisher lists three MP4 movies (approximately 6.8, 1.4 and 6.6 MB). Their native color content has not been inspected.
+Use: Possible motion/segmentation test, not evidence of pigment-color video. Adjacent micromotor application, not a channel extraction study.
+Reuse: Check publisher licensing. Movies have not been downloaded or redistributed.
+
+Feng, Mao, Zhang, Liao, Xiao, Liu & Liu (2023). Programmable microfluidics for dynamic multiband camouflage
+https://doi.org/10.1038/s41378-023-00494-3
+Primary page: https://pmc.ncbi.nlm.nih.gov/articles/PMC10073183/
+Status: Video links verified
+Images: Photographs show layered microfluidic fluids in red, yellow and blue, including combined colors.
+Videos: Three supplementary MP4 video links are present in the primary article. Files were not inspected during this pass.
+Use: Optional colorful-video engineering test. These dyes are not phycoerythrin, phycocyanin or betalains; layered optical mixing is not pigment extraction.
+Reuse: Article identifies CC BY 4.0, subject to credit-line exceptions. No media redistributed.
+

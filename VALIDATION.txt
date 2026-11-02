@@ -1,0 +1,13 @@
+VALIDATION — 2 November 2026
+
+Nine analysis-function tests passed: RGB/HSV conversion, circular hue selection, circular averaging, grayscale handling, transparency, ROI boundaries, empirical log-ratio and CSV quoting/formula handling.
+JavaScript syntax checks passed. Manual region drawing and image/video sampling passed in the local prototype.
+
+GitHub publication media verification:
+The R-phycoerythrin photograph was extracted from the original supplement; RGB pixel content matches the tested photograph exactly.
+The published WebM is encoded directly from the original AVI in VP9 lossless mode. Its 256 decoded YUV420 frames match the original video, with the playback timeline normalized to zero. An earlier MP4-remux derivative had different timing and is not included in this publication.
+The 77 x 253 C-phycocyanin photograph is copied without modification from the inspected supplement image.
+
+These checks verify implementation and media behavior; they are not a scientific concentration calibration. The inspected supplement movie is grayscale. No native-color pigment movie has yet been verified for the three priority biomolecules.
+
+The GitHub copy stores the movie in five parts. Browser loading checks the reassembled byte count and SHA-256 before decoding. This packaging preserves the complete WebM.
